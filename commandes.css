@@ -3,15 +3,15 @@ body {
     text-align: center;
     color: white;
     font-family: sans-serif;
-    border: 6mm ridge rgb(50, 220, 50);
+    border: 6mm ridge rgb(162, 0, 255);
 }
 
 h3 {
     transition: 300ms;
 }
 h3:hover{
-    color: red;
+    color: rgb(162, 0, 255);
 }
 h2 {
-    color: lime;
+    color: rgb(255, 0, 0);
 }
