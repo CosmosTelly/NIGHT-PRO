@@ -5,6 +5,8 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.no {
-    color: #222;
+.space {
+    margin: 20px;
+    position: relative;
+    top: 250px;
 }
