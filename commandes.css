@@ -1,17 +1,67 @@
 body {
-    background-color: rgb(0, 0, 0);
-    text-align: center;
+    background-color: #222;
     color: white;
-    font-family: sans-serif;
-    border: 6mm ridge rgb(162, 0, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h3 {
-    transition: 300ms;
+.title {
+    text-align: center;
+    text-decoration: underline;
 }
-h3:hover{
-    color: rgb(162, 0, 255);
+
+.cmd-admin {
+    background-color: #111;
+    text-align: center;
+    position: relative;
+    top: 45px;
+    font-size: 20px;
+    border: 5px solid;
+    border-radius: 45px;
+    border-color: rgb(130, 3, 248);
+    text-decoration: underline;
 }
-h2 {
-    color: rgb(255, 0, 0);
+
+
+.title-2 {
+    position: relative;
+    top: 120px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.cmd-fun {
+    background-color: #111;
+    text-align: center;
+    text-decoration: underline;
+    position: relative;
+    top: 45px;
+    font-size: 20px;
+    border: 5px solid;
+    border-radius: 45px;
+    border-color: rgb(130, 3, 248);
+}
+
+.other-cmd {
+    background-color: #111;
+    text-align: center;
+    position: relative;
+    top: 45px;
+    font-size: 20px;
+    border: 5px solid;
+    border-radius: 45px;
+    border-color: rgb(130, 3, 248);
+}
+
+.title-3 {
+    position: relative;
+    top: 120px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.title-ut {
+    position: relative;
+    top: 65px;
+    text-decoration: underline;
 }
