@@ -1,67 +1,153 @@
-body {
-    background-color: #222;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.title {
-    text-align: center;
-    text-decoration: underline;
-}
-
-.cmd-admin {
-    background-color: #111;
-    text-align: center;
-    position: relative;
-    top: 45px;
-    font-size: 20px;
-    border: 5px solid;
-    border-radius: 45px;
-    border-color: rgb(130, 3, 248);
-    text-decoration: underline;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="commandes.css">
+    <title>Night Pro | Officiel</title>
+</head>
+<body>
 
 
-.title-2 {
-    position: relative;
-    top: 120px;
-    text-align: center;
-    text-decoration: underline;
-}
+    <div class="title">
+        <h1>
+            COMMANDES DE MODÉRATION
+        </h1>
+    </div>
+
+    <div class="cmd-admin">
+
+        <h3>
+            +createRoom
+        </h3>
+
+        <h3>
+            +nickname
+        </h3>
+
+        <h3>
+            +clear
+        </h3>
+
+        <h3>
+            +ban
+        </h3>
+
+        <h3>
+            +kick
+        </h3>
+
+        <h3>
+            +mute
+        </h3>
+
+        <h3>
+            +unmute
+        </h3>
+
+        <h3>
+            +lock
+        </h3>
+
+        <h3>
+            +unlock
+        </h3>
+
+        <h3>
+            +delete_channel
+        </h3>
+
+        <h3>
+            +addRole
+        </h3>
+
+        <h3>
+            +create_role
+        </h3>
+    </div>
 
 
-.cmd-fun {
-    background-color: #111;
-    text-align: center;
-    text-decoration: underline;
-    position: relative;
-    top: 45px;
-    font-size: 20px;
-    border: 5px solid;
-    border-radius: 45px;
-    border-color: rgb(130, 3, 248);
-}
 
-.other-cmd {
-    background-color: #111;
-    text-align: center;
-    position: relative;
-    top: 45px;
-    font-size: 20px;
-    border: 5px solid;
-    border-radius: 45px;
-    border-color: rgb(130, 3, 248);
-}
 
-.title-3 {
-    position: relative;
-    top: 120px;
-    text-align: center;
-    text-decoration: underline;
-}
+    <div class="title-2">
+        <h1>
+            COMMANDES FUN
+        </h1>
 
-.title-ut {
-    position: relative;
-    top: 65px;
-    text-decoration: underline;
-}
+
+        <div class="cmd-fun">
+            <h3>
+                +testGay
+            </h3>
+
+            <h3>
+                +joke
+            </h3>
+
+            <h3>
+                +trollVideo
+            </h3>
+
+
+            <h3>
+                +createVirus
+            </h3>
+
+            <h3>
+                +cuisiner
+            </h3>
+
+            <h3>
+                +say
+            </h3>
+
+            <h3>
+                +hack
+            </h3>
+
+            <h3>
+                +userinfo
+            </h3>
+        </div>
+
+
+
+
+
+        
+    <div class="title-3">
+        <h1>
+            AUTRES COMMANDES
+        </h1>
+
+        <div class="other-cmd">
+            <h3>
+                +trailerServer
+            </h3>
+
+            <h3>
+                +help
+            </h3>
+
+            <h3>
+                +serverinfo
+            </h3>
+
+            <h3>
+                +ping
+            </h3>
+
+            <h3>
+                +cheatRoblox
+            </h3>
+
+            <h3>
+                +support
+            </h3>
+        </div>
+
+
+
+</body>
+</html>
