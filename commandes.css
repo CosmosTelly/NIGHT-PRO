@@ -17,6 +17,13 @@
     </div>
 
     <div class="cmd-admin">
+        <h3>
+            +serverinfo
+        </h3>
+
+        <h3>
+            +userinfo
+        </h3>
 
         <h3>
             +createRoom
@@ -106,9 +113,6 @@
                 +hack
             </h3>
 
-            <h3>
-                +userinfo
-            </h3>
         </div>
 
 
@@ -128,10 +132,6 @@
 
             <h3>
                 +help
-            </h3>
-
-            <h3>
-                +serverinfo
             </h3>
 
             <h3>
